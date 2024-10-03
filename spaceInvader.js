@@ -40,6 +40,6 @@ function spaceinvader() {
 
 	context.beginPath();
 	context.fillStyle = "#83f52c";
-	context.rect(22 5, 275, 50, 50);
+	context.rect(225, 275, 50, 50);
 	context.fill();
 }
